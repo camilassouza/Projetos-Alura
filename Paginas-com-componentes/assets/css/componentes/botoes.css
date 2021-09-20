@@ -1,0 +1,12 @@
+.botao {
+    background-color: var(--amarelo);
+    text-align: center;
+    font-weight: bold;
+    color: var(--branco);
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    box-shadow: 10px 10px 30px #FFCBD473;
+    border: none;
+
+}
