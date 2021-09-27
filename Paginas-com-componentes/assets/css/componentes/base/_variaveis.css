@@ -6,4 +6,8 @@
 
     --familia-corpo: 'Montserrat', sans-serif;
     --tamanho-corpo: 1rem;
+    --tamanho-titulo: 1.375rem;
+    --tamanho-titulo-destaque: 2rem;
+    --tamanho-destaques: 1.375rem;
+    --peso-destaques: 700;
 }
